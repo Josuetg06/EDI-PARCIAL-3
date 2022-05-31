@@ -1,0 +1,7 @@
+#ifndef CONSTANTE_H_INCLUDED
+#define CONSTANTE_H_INCLUDED
+
+#define MAX 4
+
+
+#endif // CONSTANTE_H_INCLUDED
